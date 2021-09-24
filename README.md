@@ -7,3 +7,5 @@
 2. Si la compra se realiza en la tienda fisica se registra tambien el nombre del empleado que realizo la venta.
 
 ### DIAGRAMA UML
+
+![Image text](https://github.com/jacovzap/MobileStoreSOLID/blob/main/Images/UMLSTORE.png)
