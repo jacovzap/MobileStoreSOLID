@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Store", "TiendaDispositivosMoviles\Store.csproj", "{BA471204-FAFE-4714-84F4-C0865E168439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreUnitTesting", "StoreUnitTesting\StoreUnitTesting.csproj", "{E061831D-E3BC-4911-8441-AD5AE1C2D12E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA471204-FAFE-4714-84F4-C0865E168439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA471204-FAFE-4714-84F4-C0865E168439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA471204-FAFE-4714-84F4-C0865E168439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA471204-FAFE-4714-84F4-C0865E168439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E061831D-E3BC-4911-8441-AD5AE1C2D12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E061831D-E3BC-4911-8441-AD5AE1C2D12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E061831D-E3BC-4911-8441-AD5AE1C2D12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E061831D-E3BC-4911-8441-AD5AE1C2D12E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304B14BC-6478-4C84-A581-0EADC68FB057}
+	EndGlobalSection
+EndGlobal
